@@ -67,7 +67,7 @@ h1, .nav{
 a{
 	text-decoration: none;
 	padding: 0px 30px;
-	font-size: 20px;
+	font-size: 18px;
 	font-weight: 900px;
 	font-family: sans-serif;
 }
@@ -77,7 +77,7 @@ img{
 }
 p, img{
 	margin: 10px 15px;
-	font-size: 25px;
+	font-size: 18px;
 	font-family: sans-serif;
 }
 
@@ -90,6 +90,7 @@ p, img{
 	background-color: sandybrown;
 	font-size: 18px;
 	padding: 20px 0;
+	text-align: center;
 }
 section{
 	display: inline-block;
